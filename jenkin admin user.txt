@@ -1,0 +1,14 @@
+c26487f704194454a71f3383f264fdc4
+
+user : admin
+password : admin123
+
+
+CD software (where jenkins war is there)
+java -jar jenkins.war
+java - jar jenkins.war --httpPort=8181
+
+lklkljkdfjdsakldfksdl;565356566lkfdlsfk
+
+localhost:8080/job/HelloWorld/build?token=lklkljkdfjdsakldfksdl;565356566lkfdlsfk
+
